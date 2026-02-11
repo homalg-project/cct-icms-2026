@@ -27,6 +27,9 @@ demonstrations, and a plenary overview. The goal is to share recent
 work, clarify connections between theory and tools, and encourage
 practical collaborations and follow-up projects.
 
+*The instructions and deadlines for short and extended abstract
+ submissions can be found [here]({{ site.baseurl }}/submission/)*.
+
 ## <a name="contact"></a> Contact
 
 For questions please contact the session organizers:
