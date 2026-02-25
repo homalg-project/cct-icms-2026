@@ -14,20 +14,21 @@ Time for all deadlines is 23:59 anywhere on earth.
 
 In order to give a presentation at ICMS 2026 you will need to
 [submit](mailto:cct_icms2026@topos.institute) a short abstract by
-**March 1, 2026**.
+**March 16, 2026** (old deadline was March 1).
 
 ### Extended abstract:
 
 Speakers are encouraged to
 [submit](https://easychair.org/conferences/?conf=icms26) an extended
-abstract between 4 and 8 pages by **March 28, 2026**.
+abstract between 4 and 8 pages by **April 11, 2026** (old deadline was
+March 28).
 
-The decision of the programme committee will be communicated by *April
-24, 2026*.
+The decision of the programme committee will be communicated by *May
+16, 2026*.
 
 If your submission has been proposed for acceptance, we kindly ask you
 to revise your work according to the reviews and provide us the
-sources by **May 10, 2026**. The final acceptance is subject to the
+sources by **June 1, 2026**. The final acceptance is subject to the
 condition that you implement the changes requested (if any). You may
 go beyond 8 pages in your revision, however before you go beyond 10
 pages, please double-check with your session chair.
@@ -47,10 +48,10 @@ Science](https://link.springer.com/series/0558) published by
 
 In addition to the usual presentations, there will be an opportunity
 to [submit](mailto:icms-submit@inria.fr) posters in a poster session
-by **March 28, 2026**.
+by **May 9, 2026** (old deadline was March 28).
 
-The decision of the programme committee will be communicated by *April
-24, 2026*.
+The decision of the programme committee will be communicated by *May
+16, 2026*.
 
 If you want to combine your poster with a software demonstration,
 please let us know and we will try to arrange a standing table for
