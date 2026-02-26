@@ -16,6 +16,9 @@ In order to give a presentation at ICMS 2026 you will need to
 [submit](mailto:cct_icms2026@topos.institute) a short abstract by
 **March 16, 2026** (old deadline was March 1).
 
+A confirmation of receipt will be sent shortly before the deadline;
+please notify us if you do not receive it.
+
 ### Extended abstract:
 
 Speakers are encouraged to
