@@ -27,10 +27,9 @@ demonstrations, and a plenary overview. The goal is to share recent
 work, clarify connections between theory and tools, and encourage
 practical collaborations and follow-up projects.
 
-*The instructions and deadlines for short and extended abstract
- submissions can be found [here]({{ site.baseurl }}/submission/)*.
+*The instruction for the submission of the extended abstract can be found [here]({{ site.baseurl }}/submission/)* (deadline **April 11, 2026**).
 
-The registration should be open starting from 28th of March, please [register]({{ site.baseurl }}/registration/) **before** June 15. After this date the conference fees will be more expensive.
+The registration should be open starting from 28th of March, please [register]({{ site.baseurl }}/registration/) **before June 15**. Delayed payments of the conference fees will be more expensive.
 
 **Participants are encouraged to check the [Government of Canada entry requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html) web site to determine whether a visa is necessary.**
 
