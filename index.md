@@ -30,7 +30,7 @@ practical collaborations and follow-up projects.
 *The instructions and deadlines for short and extended abstract
  submissions can be found [here]({{ site.baseurl }}/submission/)*.
 
-The registration is now open, please [register]({{ site.baseurl }}/registration/) **before** June 15. After this date the conference fees will be more expensive.
+The registration should be open starting from 28th of March, please [register]({{ site.baseurl }}/registration/) **before** June 15. After this date the conference fees will be more expensive.
 
 **Participants are encouraged to check the [Government of Canada entry requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html) web site to determine whether a visa is necessary.**
 
