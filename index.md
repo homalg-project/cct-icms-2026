@@ -27,7 +27,8 @@ demonstrations, and a plenary overview. The goal is to share recent
 work, clarify connections between theory and tools, and encourage
 practical collaborations and follow-up projects.
 
-*The instruction for the submission of the extended abstract can be found [here]({{ site.baseurl }}/submission/)* (deadline **April 11, 2026**).
+*The instruction for the submission of the extended abstract can be found [here]({{ site.baseurl }}/submission/)* (deadline **April 18, 2026**, (old deadline was
+April 11)).
 
 The registration should be open starting from 28th of March, please [register]({{ site.baseurl }}/registration/) **before June 15**. Delayed payments of the conference fees will be more expensive.
 
