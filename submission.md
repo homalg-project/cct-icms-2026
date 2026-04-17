@@ -23,7 +23,7 @@ please notify us if you do not receive it.
 
 Speakers are encouraged to
 [submit](https://easychair.org/conferences/?conf=icms26) an extended
-abstract between 4 and 8 pages by **April 18, 2026** (old deadline was
+abstract between 6 and 8 pages (and no more than 10) by **April 18, 2026** (old deadline was
 April 11).
 
 The decision of the programme committee will be communicated by *May
