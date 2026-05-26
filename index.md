@@ -5,7 +5,7 @@ title: Home
 
 # Computational Category Theory
 
-## Session at the [ICMS 2026](https://icms-conference.org/2026/index.html)
+## [Session](https://icms-conference.org/2026/sessions.html) at the [ICMS 2026](https://icms-conference.org/2026/index.html)
 
 ## {{ site.description }}<br> {{ site.location }}
 
