@@ -58,15 +58,11 @@ final version should be sent to [icms26-submit@inria.fr](mailto:icms26-submit@in
 ## Submission of posters:
 
 In addition to the usual presentations, there will be an opportunity
-to [submit](mailto:icms-submit@inria.fr) posters in a poster session
-by **May 9, 2026** (old deadline was March 28).
-
-The decision of the programme committee will be communicated by *May
-16, 2026*.
-
-If you want to combine your poster with a software demonstration,
-please let us know and we will try to arrange a standing table for
-you.
+to submit posters in a poster session. If you want to combine your
+poster with a software demonstration, please let us know and we will
+try to arrange a standing table for you. The posters abstracts must be
+submitted to [icms26-submit@inria.fr](mailto:icms26-submit@inria.fr)
+(with the subject containing "ICMS26 poster" if possible).
 
 Note that posters are independent of the sessions, i.e., giving a talk
 at ICMS 2026 neither is a prerequisite for submitting a poster, nor
