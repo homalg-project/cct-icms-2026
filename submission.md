@@ -31,7 +31,7 @@ The decision of the programme committee will be communicated by *June
 
 If your submission has been selected for inclusion in the proceedings,
 we kindly ask you to revise your work according to the reviews and
-provide us the sources by *July 2nd, 2026*. The final acceptance is
+provide us the sources by **July 2nd, 2026**. The final acceptance is
 subject to the condition that you implement the changes requested (if
 any). You may go beyond 8 pages in your revision, but not beyond 10
 pages.
