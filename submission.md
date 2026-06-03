@@ -26,15 +26,15 @@ Speakers are encouraged to
 abstract between 6 and 8 pages (and no more than 10) by **April 18, 2026** (old deadline was
 April 11).
 
-The decision of the programme committee will be communicated by *May
-16, 2026*.
+The decision of the programme committee will be communicated by *June
+3, 2026*.
 
-If your submission has been proposed for acceptance, we kindly ask you
-to revise your work according to the reviews and provide us the
-sources by **June 1, 2026**. The final acceptance is subject to the
-condition that you implement the changes requested (if any). You may
-go beyond 8 pages in your revision, however before you go beyond 10
-pages, please double-check with your session chair.
+If your submission has been selected for inclusion in the proceedings,
+we kindly ask you to revise your work according to the reviews and
+provide us the sources by *July 2nd, 2026*. The final acceptance is
+subject to the condition that you implement the changes requested (if
+any). You may go beyond 8 pages in your revision, but not beyond 10
+pages.
 
 The sources must include one LaTeX file with the extended abstract,
 one bib file with the references, and one PDF created from the
@@ -42,10 +42,18 @@ source. Please include any TikZ graphics into the LaTeX
 source. Additional graphics files may be added to the zip file as PNG
 or JPG.
 
-The conference proceedings are planned to be part of the series
-[Lecture Notes in Computer
-Science](https://link.springer.com/series/0558) published by
-[Springer](https://link.springer.com/brands/springer), as previously.
+It should follow the [Springer's Guidelines for
+Authors](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+and use the [latex
+template](https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/26361882/data/v7)
+with the LNCS latex style. The sources must include one LaTeX file
+with the final version of your paper, one bib file with the
+references, and one PDF created from the source. Please include any
+TikZ graphics into the LaTeX source. Additional graphics files may be
+added to the zip file as PNG or JPG.
+
+A compressed folder (e.g. .ZIP) containing all these files of your
+final version should be sent to [icms26-submit@inria.fr](mailto:icms26-submit@inria.fr)
 
 ## Submission of posters:
 
