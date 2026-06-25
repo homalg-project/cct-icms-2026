@@ -5,9 +5,24 @@ title: Program
 
 ## Workshop
 
-Schedule: TBA
+### Schedule
 
-## Talks
+ Time Slots | Monday              | Tuesday            | Wednesday
+------------|:-------------------:|:------------------:|:-------------------------------:
+09:00-10:00 | Registration        | Plenary 1          | Plenary 2
+10:00-10:30 | opening remarks     | coffee break       | coffee break
+10:30-11:00 | **Plenary talk of** | **Kamal Saleh**    | **Yoshihiro Maruyama & Ryo Nasu**
+11:00-11:30 | **Evan Patterson**  | **Tom Kuhmichel**  | **Plenary talk of**
+11:30-12:00 | **Matt Cuffaro**    | **Marc Talleux**   | **Bruno Gavranović**
+12:00-14:00 | Lunch               | Lunch              | Lunch
+14:00-15:30 | other sessions      | other sessions     | other sessions
+15:30-16:00 | coffee break        | coffee break       | *Excursion*
+16:00-16:30 | **Xanna Little**    |                     | *Excursion*
+16:30-17:00 | **Ryan Wisnesky & Daniel Filonik** |   | *Excursion*
+17:00-17:00 | **Nelson Martins-Ferreira**          |   | *Excursion*
+17:30-19:00 | *Evening reception*                  |   | *Excursion & Conference Dinner*
+
+### Talks
 
 #### Matt Cuffaro: *More flexible interfaces for specifying simulations of systems in [CatColab](https://catcolab.org)*
 
