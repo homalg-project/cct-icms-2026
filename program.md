@@ -11,7 +11,7 @@ title: Program
 ------------|:-------------------:|:------------------:|:-------------------------------:
 09:00-10:00 | Registration        | Plenary 1          | Plenary 2
 10:00-10:30 | opening remarks     | coffee break       | coffee break
-10:30-11:00 | **Plenary talk of** | **Kamal Saleh**    | **Yoshihiro Maruyama & Ryo Nasu**
+10:30-11:00 | **Plenary talk of** | **Kamal Saleh**    | 
 11:00-11:30 | **Evan Patterson**  | **Tom Kuhmichel**  | **Plenary talk of**
 11:30-12:00 | **Matt Cuffaro**    | **Marc Talleux**   | **Bruno Gavranović**
 12:00-14:00 | Lunch               | Lunch              | Lunch
