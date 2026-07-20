@@ -19,7 +19,7 @@ title: Program
 15:30-16:00 | coffee break        | coffee break       | *Excursion*
 16:00-16:30 | **Xanna Little**    |                     | *Excursion*
 16:30-17:00 | **Ryan Wisnesky & Daniel Filonik** |   | *Excursion*
-17:00-17:00 | **Nelson Martins-Ferreira**          |   | *Excursion*
+17:00-17:30 | **Nelson Martins-Ferreira**          |   | *Excursion*
 17:30-19:00 | *Evening reception*                  |   | *Excursion & Conference Dinner*
 
 ### Talks
