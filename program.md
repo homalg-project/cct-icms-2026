@@ -11,8 +11,8 @@ title: Program
 ------------|:-------------------:|:------------------:|:-------------------------------:
 09:00-10:00 | Registration        | Plenary 1          | Plenary 2
 10:00-10:30 | opening remarks     | coffee break       | coffee break
-10:30-11:00 | **Plenary talk of** | **Kamal Saleh**    | 
-11:00-11:30 | **Evan Patterson**  | **Tom Kuhmichel**  | **Plenary talk of**
+10:30-11:00 | **Plenary talk** | **Kamal Saleh**    | 
+11:00-11:30 | **Evan Patterson**  | **Tom Kuhmichel**  | **Plenary [online talk](https://topos-institute.zoom.us/j/2165058612?pwd=RnZHTS9hTDcwdlB5K3BhNXRJVDgxdz09)**
 11:30-12:00 | **Matt Cuffaro**    | **Marc Talleux**   | **Bruno Gavranović**
 12:00-14:00 | Lunch               | Lunch              | Lunch
 14:00-15:30 | other sessions      | other sessions     | other sessions
